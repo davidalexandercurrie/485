@@ -1,5 +1,7 @@
 # NZSM485
 
-repo for project code
+Repo for project code
 <br />
-create hanging sound sculpture
+Create hanging sound sculpture
+<br />
+David Currie
