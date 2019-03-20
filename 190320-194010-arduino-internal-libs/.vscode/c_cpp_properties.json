@@ -1,0 +1,54 @@
+{
+    "!!! WARNING !!!": "PLEASE DO NOT MODIFY THIS FILE! USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags",
+    "configurations": [
+        {
+            "name": "Mac",
+            "macFrameworkPath": [],
+            "includePath": [
+                "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/cores/arduino",
+                "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/variants/standard",
+                "/Users/davidalexandercurrie/Desktop/NZSM485/190320-194010-arduino-internal-libs/.piolibdeps/Ethernet_ID872/src",
+                "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src",
+                "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src",
+                "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src",
+                "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src",
+                "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src",
+                "/Users/davidalexandercurrie/.platformio/packages/tool-unity",
+                "/Users/davidalexandercurrie/Desktop/NZSM485/190320-194010-arduino-internal-libs/include",
+                "/Users/davidalexandercurrie/Desktop/NZSM485/190320-194010-arduino-internal-libs/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "${workspaceRoot}/.vscode/.browse.c_cpp.db",
+                "path": [
+                    "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/cores/arduino",
+                    "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/variants/standard",
+                    "/Users/davidalexandercurrie/Desktop/NZSM485/190320-194010-arduino-internal-libs/.piolibdeps/Ethernet_ID872/src",
+                    "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src",
+                    "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src",
+                    "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src",
+                    "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src",
+                    "/Users/davidalexandercurrie/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src",
+                    "/Users/davidalexandercurrie/.platformio/packages/tool-unity",
+                    "/Users/davidalexandercurrie/Desktop/NZSM485/190320-194010-arduino-internal-libs/include",
+                    "/Users/davidalexandercurrie/Desktop/NZSM485/190320-194010-arduino-internal-libs/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=30605",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10805",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "/Users/davidalexandercurrie/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -mmcu=atmega328p"
+        }
+    ]
+}
