@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/davidalexandercurrie/.platformio/penv/bin:/Users/davidalexandercurrie/.platformio/penv:/Users/davidalexandercurrie/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/davidalexandercurrie/.platformio/penv/bin",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
