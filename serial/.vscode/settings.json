@@ -1,6 +1,6 @@
 {
   "terminal.integrated.env.osx": {
-    "PATH": "/Users/davidalexandercurrie/.platformio/penv/bin:/Users/davidalexandercurrie/.platformio/penv:/Users/davidalexandercurrie/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/davidalexandercurrie/.platformio/penv/bin",
+    "PATH": "/Users/davidalexandercurrie/.platformio/penv/bin:/Users/davidalexandercurrie/.platformio/penv:/Users/davidalexandercurrie/anaconda3/bin:/Users/davidalexandercurrie/anaconda3/condabin:/Users/davidalexandercurrie/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/davidalexandercurrie/.platformio/penv/bin:/Users/davidalexandercurrie/Library/Python/3.7/bin",
     "PLATFORMIO_CALLER": "vscode"
   }
 }
