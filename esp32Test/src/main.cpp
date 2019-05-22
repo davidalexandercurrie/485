@@ -118,6 +118,7 @@ void sendMessage()
 
 void receivedCallback(uint32_t from, String &msg)
 {
+
   Serial.printf("startHere: Received from %u msg=%s\n", from, msg.c_str());
 }
 
@@ -164,3 +165,15 @@ void delayReceivedCallback(uint32_t from, int32_t delay)
 {
   Serial.printf("Delay to node %u is %d us\n", from, delay);
 }
+
+void playMusic(uint32_t numberOfConnections, uint32_t MACaddresses)
+{
+
+  // 1. composition based on how many connections are active...
+  // 2. variables to find... number of connections MAC addresses
+  // 3.
+}
+
+// some function that can bring in the MAC addresses from the other connected devices
+
+// some function that can send the mac address  ? "broadcast" ?
