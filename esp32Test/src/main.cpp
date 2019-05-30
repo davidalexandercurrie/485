@@ -177,3 +177,5 @@ void playMusic(uint32_t numberOfConnections, uint32_t MACaddresses)
 // some function that can bring in the MAC addresses from the other connected devices
 
 // some function that can send the mac address  ? "broadcast" ?
+
+// need to find a way to create a master/slave relationship
